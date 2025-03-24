@@ -5,9 +5,9 @@ from datetime import datetime
 
 # Reddit API credentials
 reddit = praw.Reddit(
-    client_id="bV6nNc8ieM952wGh50o5qw",
-    client_secret="sYnegm-cs_eqKAskdJI2XINtFAQRKg",
-    user_agent="ScamStories by /u/wild_boars",
+    client_id="###",
+    client_secret="###",
+    user_agent="ScamStories by /u/###",
 )
 
 # Subreddits and keywords to search for
