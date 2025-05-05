@@ -1,2 +1,6 @@
 # Reddit-scrapper
-Still in a buildup. This tool will scrap over selected subreddits to find the most relevant and descriptive post.
+# Introduction
+<p>This application will scrap over selected subreddits and outputs the most descriptive/revevant posts.</p>
+<p>I build it to practice my python and js skill</p>
+
+# 
